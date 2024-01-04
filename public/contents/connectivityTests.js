@@ -30,7 +30,7 @@ export default [
   {
     id: "cloudflare",
     name: "TikTok",
-    icon: "🎵",
+    icon: "tiktok",
     url: "https://www.tiktok.com/favicon.ico?",
     status: "",
   },
