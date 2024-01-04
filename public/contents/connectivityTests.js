@@ -29,9 +29,9 @@ export default [
   },
   {
     id: "cloudflare",
-    name: "Cloudflare",
+    name: "TikTok",
     icon: "cloud-fill",
-    url: "https://www.cloudflare.com/favicon.ico?",
+    url: "https://www.tiktok.com/favicon.ico?",
     status: "",
   },
   {
