@@ -1,21 +1,21 @@
 export default [
   {
     id: "netease",
-    name: "Netease",
+    name: "网易",
     icon: "globe-americas",
     url: "https://www.163.com/favicon.ico?",
     status: "",
   },
   {
     id: "baidu",
-    name: "Baidu",
+    name: "百度",
     icon: "globe-americas",
     url: "https://www.baidu.com/favicon.ico?",
     status: "",
   },
   {
     id: "wechat",
-    name: "WeChat",
+    name: "微信",
     icon: "wechat",
     url: "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico?",
     status: "",
@@ -30,7 +30,7 @@ export default [
   {
     id: "cloudflare",
     name: "TikTok",
-    icon: "cloud-fill",
+    icon: "TikTok",
     url: "https://www.tiktok.com/favicon.ico?",
     status: "",
   },
